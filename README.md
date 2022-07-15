@@ -30,7 +30,7 @@ Fare behavior by type of city in the first 4 months of 2019
 
 Using the merging data of the city_data.csv and ride_data.csv, pivot tables and  Matplotlib, the results are shown in the following line graph:
 
-
+analysis/PyBer_Fare_summary.png
 
 Let analyze the results:
 
