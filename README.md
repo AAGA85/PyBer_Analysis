@@ -3,12 +3,12 @@
 ## Overview of the analysis
 
 We have been hired as data analytics for PyBer, a Python based ride-sharing app and we will use the data collected by the app to create visualizations in order to make easier the communication of complex information quickly and clearly, enabling us to tell more compelling stories about the relationship that we find between the variables as type of city, the number of drivers and riders, average fares, etc. All the charts and visualizations will help the CEO of PyBer to improve the service and provide affordability for undeserved neighborhoods.
- verage fare per ride
+
 This final assigment includes the usage of Python, Pandas and Matplotlib to create a dataframe summary of the ride-sharing data by city type and a multiple-line graph to show the total weekly fares for each city type.
 
 ## Results
 
-Ride-sharing summary DataFrame by city type
+**Ride-sharing summary DataFrame by city type**
 
 Using the merging data of the city_data.csv and ride_data.csv, the results are shown in the following table:
 
@@ -26,7 +26,7 @@ c) Average fare per ride: even the large discrepancies of the total rides and am
 
 d) Average fare per driver: when we look at the income per driver, it is clear to see a huge discrepancy again between the types of cities.The Rural drivers have 29% more income than the Suburban drivers. The Suburban drivers have 58% more income than the Urban drivers. Then the Urban drivers earn less per drive vs the Suburban and Rural drivers 
 
-Fare behavior by type of city in the first 4 months of 2019
+**Fare behavior by type of city in the first 4 months of 2019**
 
 Using the merging data of the city_data.csv and ride_data.csv, pivot tables and  Matplotlib, the results are shown in the following line graph:
 
@@ -34,13 +34,13 @@ Using the merging data of the city_data.csv and ride_data.csv, pivot tables and 
 
 Let analyze the results:
 
--- This graph shows the income made by the service from January to April of 2019. 
+- This graph shows the income made by the service from January to April of 2019. 
 
--- The Urban cities make the biggest amount of money followed by the Suburban cities and Rural cities.
+- The Urban cities make the biggest amount of money followed by the Suburban cities and Rural cities.
 
--- The total fare remains fairly stable during the 4 months with a significant increase between February and March.
+- The total fare remains fairly stable during the 4 months with a significant increase between February and March.
 
--- The Urban fares have more ups and downs between March and April than other type of cities. 
+- The Urban fares have more ups and downs between March and April than other type of cities. 
 
 
 ## Summary and recommendations
